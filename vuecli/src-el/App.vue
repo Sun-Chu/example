@@ -23,7 +23,7 @@
     margin: 0;
     padding: 0;
   }
-  html,body,#app,.el-container,.el-menu{
+  html,body,#app,{
     height: 100%;
   }
 </style>
